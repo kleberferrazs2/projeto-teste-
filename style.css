@@ -1,0 +1,44 @@
+body{
+background-color: pink;
+margin: 0;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header{
+background-color: firebrick;
+align-items: center;
+justify-content: space-between;
+padding: 20px;
+display: flex;
+}
+h1{
+color: cornsilk;
+font-size: 30px;
+}
+input{
+width: 400px;
+height: 30px;
+}
+button{
+background-color: antiquewhite;
+width: 150px;
+border-radius: 30px;
+}
+main{
+padding: 20px;
+background-color: red;
+border-radius: 10px;
+}
+section{
+display: flex;
+align-items: center;
+justify-content: space-around;
+color: aqua;
+margin: 20px;
+width: 90vw;
+}
+p{ 
+    width: 400px;
+}
+img{
+    width: 400px;
+}
